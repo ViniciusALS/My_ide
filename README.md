@@ -29,6 +29,8 @@ Develop a cross platform ide capable of running on mac, windows, linux, and the 
 
 ## Research
 
+### [VS Code Wiki](https://github.com/microsoft/vscode/wiki)
+
 ###  [The craft of text editing book](https://www.finseth.com/craft/craft.pdf)
 
 ### [Software Documentation](https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/)
