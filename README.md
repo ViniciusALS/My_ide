@@ -50,3 +50,9 @@ Develop a cross platform ide capable of running on mac, windows, linux, and the 
 ### [VS Code Source Code organization Wiki](https://github.com/microsoft/vscode/wiki/Source-Code-Organization)
 
 ### [The History of Visual Studio Code](https://www.youtube.com/watch?v=Tw8l0WzQxmY)
+
+### [VS Code Editor Design Doc](https://github.com/microsoft/vscode/wiki/%5BWIP%5D-Code-Editor-Design-Doc)
+
+Fenomenal guidance for the architectural desicions behind vs code
+
+### [VS Code Extension samples](https://github.com/Microsoft/vscode-extension-samples)
