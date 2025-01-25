@@ -56,3 +56,11 @@ Develop a cross platform ide capable of running on mac, windows, linux, and the 
 Fenomenal guidance for the architectural desicions behind vs code
 
 ### [VS Code Extension samples](https://github.com/Microsoft/vscode-extension-samples)
+
+### [VSCode language server protocol](https://microsoft.github.io/language-server-protocol/)
+
+### [Extension API guidelines](https://github.com/microsoft/vscode/wiki/Extension-API-guidelines)
+
+### [VS Code File watcher](https://github.com/microsoft/vscode/wiki/File-Watcher-Internals)
+
+### [VS Code Source Code Organization](https://github.com/microsoft/vscode/wiki/Source-Code-Organization)
